@@ -34,7 +34,7 @@ cd Time-Series-Forecasting-with-RNN
 # Open and run the Jupyter Notebook 'Time_Series_Forecasting_with_RNN.ipynb' to execute the code.
 
 
-# Model Training
+## Model Training
 
 - The dataset is split into training and testing sets.
 - MinMax scaling is applied to normalize the data.
