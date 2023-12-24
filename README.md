@@ -32,4 +32,4 @@ This project demonstrates the application of Recurrent Neural Networks (RNN) for
 git clone https://github.com/ZunaishaN00R/Time-Series-Forecasting-with-RNN.git
 cd Time-Series-Forecasting-with-RNN
 # Open and run the Jupyter Notebook 'Time_Series_Forecasting_with_RNN.ipynb' to execute the code.
-## Model Training
+**Model Training**
