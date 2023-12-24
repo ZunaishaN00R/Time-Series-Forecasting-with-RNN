@@ -15,7 +15,6 @@ This project demonstrates the application of Recurrent Neural Networks (RNN) for
 ## Dependencies
 
 - Python 3.7 or higher
-- Required Python libraries are listed in the 'requirements.txt' file.
 
 ## Setup and Installation
 
