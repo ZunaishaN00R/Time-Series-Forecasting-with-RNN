@@ -26,8 +26,7 @@ This project demonstrates the application of Recurrent Neural Networks (RNN) for
    cd your-repo
 # Time Series Forecasting with RNN
 
-# Open and run the Jupyter Notebook 'Time_Series_Forecasting_with_RNN.ipynb' to execute the code.
-
+Open and run the Jupyter Notebook 'Time_Series_Forecasting_with_RNN.ipynb' to execute the code.
 
 **Model Training**
 - The dataset is split into training and testing sets.
