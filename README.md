@@ -26,16 +26,10 @@ This project demonstrates the application of Recurrent Neural Networks (RNN) for
    cd your-repo
 # Time Series Forecasting with RNN
 
-## Open and Run the Jupyter Notebook
-
-```bash
-   git clone https://github.com/ZunaishaN00R/Time-Series-Forecasting-with-RNN.git
-   cd Time-Series-Forecasting-with-RNN
-
 # Open and run the Jupyter Notebook 'Time_Series_Forecasting_with_RNN.ipynb' to execute the code.
 
 
-Model Training
+**Model Training**
 - The dataset is split into training and testing sets.
 - MinMax scaling is applied to normalize the data.
 - Sequences of data are created for training the RNN model.
@@ -43,20 +37,20 @@ Model Training
 - The model is compiled using the Adam optimizer and mean squared error loss.
 - Training is performed for 50 epochs with a batch size of 32.
 
-Model Evaluation
+**Model Evaluation**
 - The trained model is evaluated on both training and testing sets.
 - Metrics such as RMSE (Root Mean Squared Error) and MAE (Mean Absolute Error) are calculated.
 - R2 score is computed to assess the goodness of fit.
 
-Model Predictions
+**Model Predictions**
 - Predictions are made on the test set and inverse transformed to the original scale.
 - Future predictions are generated for the next 50 time steps.
 
-Results Visualization
+**Results Visualization**
 - Visualizations include actual vs. predicted values on the training and testing sets.
 - A plot shows the actual electric production values and future predictions.
 
-Results
+**Results**
 - Training RMSE: 2.33
 - Testing RMSE: 3.91
 - Training MAE: 1.79
@@ -64,7 +58,7 @@ Results
 - Training R2 Score: 0.97
 - Testing R2 Score: 0.84
 
-Future Work
+**Future Work**
 - Fine-tune hyperparameters for improved performance.
 - Explore other architectures like LSTM or GRU.
 - Experiment with different sequence lengths for better predictions.
