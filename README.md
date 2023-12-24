@@ -32,4 +32,14 @@ This project demonstrates the application of Recurrent Neural Networks (RNN) for
 git clone https://github.com/ZunaishaN00R/Time-Series-Forecasting-with-RNN.git
 cd Time-Series-Forecasting-with-RNN
 # Open and run the Jupyter Notebook 'Time_Series_Forecasting_with_RNN.ipynb' to execute the code.
-**Model Training**
+
+
+# Model Training
+
+- The dataset is split into training and testing sets.
+- MinMax scaling is applied to normalize the data.
+- Sequences of data are created for training the RNN model.
+- The RNN model architecture consists of a SimpleRNN layer and a Dense layer.
+- The model is compiled using the Adam optimizer and mean squared error loss.
+- Training is performed for 50 epochs with a batch size of 32.
+
