@@ -22,7 +22,7 @@ This project demonstrates the application of Recurrent Neural Networks (RNN) for
 
    ```bash
    git clone https://github.com/ZunaishaN00R/Time-Series-Forecasting-with-RNN.git
-   cd your-repo
+   cd Time-Series-Forecasting-with-RNN
 # Time Series Forecasting with RNN
 
 Open and run the Jupyter Notebook 'Time_Series_Forecasting_with_RNN.ipynb' to execute the code.
